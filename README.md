@@ -1,4 +1,4 @@
 ncsu-food-asset-mapping
 =======================
 
-NCSU Food Asset Mapping Project
+NC State University (NCSU) Food Asset Mapping Project
